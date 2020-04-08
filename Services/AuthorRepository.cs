@@ -3,7 +3,7 @@ using System;
 namespace Fisher.Bookstore.Services
 {
 
-    public class AuthorsRepository
+    public class AuthorssRepository
     {
              internal static bool AuthorExists(int authorId)
         {
